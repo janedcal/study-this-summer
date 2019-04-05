@@ -1,0 +1,28 @@
+#optionsimg {
+    width: 50px;
+    align-content: center;
+}
+h1 {
+    font-family: cursive;
+    font-size: 70px;
+    border: solid black 3px;
+
+}
+p{
+    border: solid black 1px;
+    padding: 5px;
+}
+#listintrop{
+
+}
+ul{
+    position: fixed;
+    height: 40%;
+    width: 10%;
+    z-index: 1;
+    top: 0px;
+    background-color:cornsilk;
+    list-style-type: none;
+    border: 2px solid black;
+    padding: 3px;
+}
